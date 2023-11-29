@@ -1,0 +1,21 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/meetrbhatt/Desktop/UofC/Third Year/Fall/ENSF 480/Term Project/mysql-connector-j-8.2.0/mysql-connector-j-8.2.0.jar"
+    ],
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 60,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "localhost",
+            "database": "kvmcairlines",
+            "username": "root"
+        }
+    ]
+}
